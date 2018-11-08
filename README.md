@@ -14,4 +14,8 @@ Passo a passo para construirmos o jogo:
 5. Definir a estrutura de dados que será utilizada
 6. Definir as variáveis necessárias inicialmente e inicializá-las no Create
 7. Posicionar os zumbis no grid
-8. Criar evento de click para revelar as células
+8. Contar os vizinhos
+9. Criar evento de click para revelar as células
+10. Criar evento de pintura para mostrar as imagens
+11. Criar possibilidade de dar Reset no jogo ao clicar na carinha feliz
+12. Adicionar funcionalidade de inserir Flags
